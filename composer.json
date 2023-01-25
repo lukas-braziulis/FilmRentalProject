@@ -1,0 +1,17 @@
+{
+    "name": "lukas_braziulis/film-rental",
+    "autoload": {
+        "psr-4": {
+            "FilmRental\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "lukas-braziu",
+            "email": "lukas.braziulis@gmail.com"
+        }
+    ],
+    "require": {
+        "smarty/smarty": "^4.3"
+    }
+}
